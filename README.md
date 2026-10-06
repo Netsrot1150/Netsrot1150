@@ -17,13 +17,16 @@ Hobby builder from Sweden. I like making hardware and software talk to each othe
 | [esp32-outlander-bms](https://github.com/Netsrot1150/esp32-outlander-bms) | ESP32 BMS for 8 Outlander PHEV modules (64S, ~250 V) with web UI, balancing and OTA. Running in my van |
 | [Begagnat-scraper](https://github.com/Netsrot1150/Begagnat-scraper) | Finds cheap high-VRAM GPUs on Blocket, Tradera and eBay and ranks them by value |
 | [casio-esp32-chat](https://github.com/Netsrot1150/casio-esp32-chat) | Chat between a Casio fx-9860GIII and a web browser via an ESP32-S3 |
-| [dsp-volume-control](https://github.com/Netsrot1150/dsp-volume-control) | Physical volume knobs for car audio DSP software over serial |
+| [dsp-volume-control](https://github.com/Netsrot1150/dsp-volume-control) | Physical volume knobs for car audio DSP software: a wired ESP32 knob or a wireless ESP-NOW remote, with Python scripts on the PC |
 | [Arbetstid](https://github.com/Netsrot1150/Arbetstid) | Time tracking and pay calculator web app I used during my summer job |
 
 #### In the works
 
 - 🔊 A 4-layer class D amplifier board (KiCad, simulated, not built yet)
 - 🚗 A DS2 datalogger and gauge display for a BMW E36 on an ESP32-S3 AMOLED
+- 📢 BEM simulations of a 12 × 15" bandpass subwoofer in a VW Transporter
+- 📹 A self-hosted camera NVR with Frigate, GPU detection and local AI event descriptions
+- 📈 A local personal finance dashboard with Claude-powered analysis
 
 #### Tools I use
 
