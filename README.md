@@ -1,12 +1,12 @@
 ### Hi, I'm Netsrot 👋
 
-Hobby builder from Sweden. I mostly build car audio and the electronics around it: horn subwoofers, amplifiers, DSP controls and a battery pack for my van. Most of my code is written together with AI.
+Builder from Sweden working across acoustics, electronics and embedded software, from simulation and design to hardware that runs in the real world.
 
-- 🔊 **Car audio & SPL**: horn and bandpass subwoofers, simulated in Hornresp and AKABAK before I cut any wood
-- 📏 **Measuring**: Thiele-Small parameters with a DATS V3, frequency response with a measurement mic and REW
-- 🔋 **ESP32 / embedded**: battery management, CAN bus, car diagnostics, ESP-NOW remotes
-- 🛠️ **CAD & 3D printing**: Fusion 360 and SolidWorks
-- 🐍 **Python**: scrapers, automation and small tools for whatever I'm building
+- 🔊 **Acoustics**: loudspeaker and enclosure design, simulation and measurement
+- ⚡ **Electronics**: power electronics, amplifier design and PCB layout
+- 🔋 **Embedded systems**: battery management, CAN bus, wireless control and diagnostics
+- 🛠️ **Mechanical design**: CAD and 3D printing
+- 🐍 **Software**: Python tooling, automation and data collection
 
 #### Projects
 
