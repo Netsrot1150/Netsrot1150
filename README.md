@@ -1,5 +1,3 @@
-### Hi, I'm Netsrot 👋
-
 Builder from Sweden working across acoustics, electronics and embedded software, from simulation and design to hardware that runs in the real world.
 
 - 🔊 **Acoustics**: loudspeaker and enclosure design, simulation and measurement
